@@ -25,4 +25,10 @@ Task Management System is a full-stack web application developed to help users e
 - GitHub
 - Maven
 - ## 📂 Project Structure
+- ## ⚙ Installation
+
+1. Clone the repository.
+2. Configure the database.
+3. Run the Spring Boot application.
+4. Access the application in your browser.
 
