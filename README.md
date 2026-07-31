@@ -41,4 +41,12 @@ Typical operations include:
 2. Configure the database.
 3. Run the Spring Boot application.
 4. Access the application in your browser.
+5. ## 🗄 Database
+
+The application uses MySQL for storing task information.
+
+Main tables include:
+
+- Task
+- User (if authentication is implemented)
 
