@@ -11,3 +11,16 @@ Task Management System is a full-stack web application developed to help users e
 - Mark Tasks as Completed
 - Task Status Management
 - Responsive User Interface
+- ## 🛠 Technology Stack
+
+### Backend
+- Java
+- Spring Boot
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- Maven
