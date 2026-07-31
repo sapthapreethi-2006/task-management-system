@@ -26,6 +26,16 @@ Task Management System is a full-stack web application developed to help users e
 - Maven
 - ## 📂 Project Structure
 - ## ⚙ Installation
+- ## 📌 API
+
+The backend exposes REST APIs for managing tasks.
+
+Typical operations include:
+
+- Create Task
+- Update Task
+- Delete Task
+- View Tasks
 
 1. Clone the repository.
 2. Configure the database.
