@@ -56,4 +56,10 @@ Main tables include:
 - Email Notifications
 - Dark Mode
 - Calendar View
+- ## 👩‍💻 Author
+
+Saptha Preethi
+
+GitHub:
+https://github.com/sapthapreethi-2006
 
