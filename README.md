@@ -49,4 +49,11 @@ Main tables include:
 
 - Task
 - User (if authentication is implemented)
+- ## 🚀 Future Enhancements
+
+- Task Priority
+- Due Date Reminders
+- Email Notifications
+- Dark Mode
+- Calendar View
 
